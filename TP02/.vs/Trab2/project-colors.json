@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e0d6c9b-a38d-4308-993e-7a8196ba1d83": {
+      "ProjectGuid": "0e0d6c9b-a38d-4308-993e-7a8196ba1d83",
+      "DisplayName": "Trab2",
+      "ColorIndex": 0
+    },
+    "2e6061a7-520d-4b44-bcb9-9602ec49bf22": {
+      "ProjectGuid": "2e6061a7-520d-4b44-bcb9-9602ec49bf22",
+      "DisplayName": "Trab2.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

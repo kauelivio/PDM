@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Trab2.Padrao">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Label Text="SHIFT - Xamarin"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           TextColor="Green" />
+            
+            <Label Text="Aplicativos Cross-Platform"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           TextColor="Green" />
+            
+            <Entry Placeholder="Estilo baseado no baseStyle"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           BackgroundColor="Cyan" />
+
+            <Button Text="CLIQUE AQUI" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           BackgroundColor="Blue" />
+
+            <Button x:Name="btnVoltar" Clicked="Voltar_Clicked"
+           Text="SEM ESTILO" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

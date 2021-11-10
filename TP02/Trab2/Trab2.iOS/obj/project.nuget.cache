@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "++dQ1OpxBvlBPP1o2DJSjNuLYJDEWmWwKFfeREkUkGUTp/kCHh3tq6+UAJTfxv9Yeey2oe51hpxWYcazDD2Cqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kauel\\OneDrive\\Área de Trabalho\\MobileIfsp-master\\trab2\\Trab2\\Trab2\\Trab2.iOS\\Trab2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kauel\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}

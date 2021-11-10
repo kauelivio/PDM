@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Trab2"
+             x:Class="Trab2.MainPage">
+
+    <StackLayout>
+
+        <ScrollView>
+
+            <Grid RowSpacing="0" ColumnSpacing="0" Padding="0">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                </Grid.RowDefinitions>
+                
+                <Label Text="Style Recources" Grid.Row="0"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           TextColor="Blue" />
+
+                <Button x:Name="btnPadrao" Clicked="Padrao_Clicked" Grid.Row="1"
+           Text="ESTILO PADRAO" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+                <Button x:Name="btnDinamico" Clicked="Dinamico_Clicked" Grid.Row="2"
+           Text="ESTILO DINAMICO" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+                <Button x:Name="btnTrigger" Clicked="Trigger_Clicked" Grid.Row="3" 
+           Text="ESTILO EVENT TRIGGER" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+                <Button x:Name="btnGlobal" Grid.Row="4"
+           Text="ESTILO GLOBAL" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+                <Label Text="Passar Parametro"  Grid.Row="5"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           TextColor="Blue" />
+
+                <Button x:Name="btnHome"  Clicked="Home_Clicked" Grid.Row="6"
+           Text="HOME" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+                <Button x:Name="btnCenter" Grid.Row="7"
+           Text="MESSAGIN CENTER" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+                <Label Text="ListView"  Grid.Row="8"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+           TextColor="Blue" />
+
+                <Button x:Name="btnSimples" Clicked="Simples_Clicked" Grid.Row="9"
+           Text="Simples" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+                <Button x:Name="btnComplexa" Grid.Row="10"
+           Text="CLASSE COMPLEXA" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+                <Button x:Name="btnProduto" Clicked="Produto_Clicked" Grid.Row="11"
+           Text="PRODUTO" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+            </Grid>
+            
+        </ScrollView>
+        
+    </StackLayout>
+
+</ContentPage>

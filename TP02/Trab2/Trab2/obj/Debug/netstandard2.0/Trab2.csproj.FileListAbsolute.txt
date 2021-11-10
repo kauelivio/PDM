@@ -1,0 +1,39 @@
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\bin\Debug\netstandard2.0\Trab2.deps.json
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\bin\Debug\netstandard2.0\Trab2.dll
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\bin\Debug\netstandard2.0\Trab2.pdb
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.csprojAssemblyReference.cache
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.csproj.CoreCompileInputs.cache
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.AssemblyInfoInputs.cache
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.AssemblyInfo.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.dll
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.pdb
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Padrao.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Dinamico.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\TriggersView.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Simples.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Home.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Produto.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\ProdutoResultado.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\bin\Debug\netstandard2.0\Trab2.deps.json
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\bin\Debug\netstandard2.0\Trab2.dll
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\bin\Debug\netstandard2.0\Trab2.pdb
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.csproj.AssemblyReference.cache
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Dinamico.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Padrao.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Produto.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\ProdutoResultado.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Simples.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\TriggersView.xaml.g.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.AssemblyInfoInputs.cache
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.AssemblyInfo.cs
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.csproj.CoreCompileInputs.cache
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.dll
+C:\Users\kauel\OneDrive\Área de Trabalho\MobileIfsp-master\trab2\Trab2\Trab2\Trab2\obj\Debug\netstandard2.0\Trab2.pdb

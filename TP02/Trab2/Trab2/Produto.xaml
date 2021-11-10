@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Trab2.Produto">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Descrição:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Entry x:Name="desc" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Categoria:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Entry x:Name="cat" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Quantidade:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Entry x:Name="quant" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Preço:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Entry x:Name="preco" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="btnEnv" Clicked="Res_Clicked"
+           Text="Enviar" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

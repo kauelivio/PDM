@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Trab2.Dinamico">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            
+            <Label Text="Horário"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   TextColor="Blue"/>
+            <Label x:Name="data" Text="Horário"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   TextColor="Blue"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
