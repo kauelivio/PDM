@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProvaFinal.View.Mercadoria.MainPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20" BackgroundColor="Orange">
+            <StackLayout Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="Center">
+                <Button x:Name="btnNovo" Text="Nova" Clicked="OnNovo" />
+            </StackLayout>
+            <Label Text="Mercadorias" Font="20" TextColor="Black"/>
+            <Label Text="Kauê de Jesus Livio CB3005461" Font="15" TextColor="Black"/>
+            <Label Text="Pedro Paulo dos Reis Faria CB3007278" Font="15" TextColor="Black"/>
+            <ListView x:Name="lstMercadorias" ItemsSource="{Binding Mercadorias}" ItemTapped="OnMercadoriaTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid BackgroundColor="Orange">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="1*" />
+                                        <ColumnDefinition Width="1*" />
+                                        <ColumnDefinition Width="1*" />
+                                        <ColumnDefinition Width="1*" />
+                                        <ColumnDefinition Width="1*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="40" />
+                                    </Grid.RowDefinitions>
+                                    <Label Text="{Binding Nome}" Grid.Column="0" HorizontalOptions="Fill" FontSize="12" TextColor="Black"/>
+                                    <Label Text="{Binding NomeProd}" Grid.Column="1" HorizontalOptions="Fill" FontSize="12" TextColor="Black"/>
+                                    <Label Text="{Binding Peso}" Grid.Column="2" HorizontalOptions="Fill" FontSize="12" TextColor="Black"/>
+                                    <Button x:Name="btnUp" Text="Att" Grid.Column="3" Clicked="Update_Clicked" HorizontalOptions="Center" VerticalOptions="Center" CommandParameter="{Binding Id}"/>
+                                    <Button x:Name="btnDel" Text="Del" Grid.Column="4" Clicked="Delete_Clicked" CommandParameter="{Binding Id}"/>
+
+                                </Grid>
+                            </StackLayout>
+                            
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
